@@ -3,12 +3,14 @@
 - 1. abrir o arquivo no terminal
 - ir no arquivo, clicar com o botão direito e em seguida em "abir no terminal"
 - Abrir terminal **(ctrl+ alt + T)** e aplicar os comandos :
-**pwd** : acessa home/usuário
-**ls:** mostra as pastas de home
-**ls -a:** mostra as pastas ocultas de home e as visíveis.
-**cd pasta_do_projeto**: acessa a pasta que se quer usar
+**pwd** : acessa home/usuário 
 
-## 2. Gitinit
+    **ls:** mostra as pastas de home
+**ls -a:** mostra as pastas ocultas de home e as visíveis.
+
+    **cd pasta_do_projeto**: acessa a pasta que se quer usar
+
+## 2. Git init
 inicializa um repositório git vazio na pasta.
 cria uma branch master/main.
 
@@ -31,3 +33,12 @@ faz o remote do projeto com o link do github
 faz o push do projetos commitados pro repositório do github
 ## git add.
 manda todos os arquivos presentes na pasta pra área de stayding
+
+## git checkout -b "nome branch"
+Cria branch
+
+## git push origin branch
+faz o push da branch criada
+
+## git checkout main
+retorna pra branch principal
