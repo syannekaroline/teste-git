@@ -42,3 +42,12 @@ faz o push da branch criada
 
 ## git checkout main
 retorna pra branch principal
+
+## git merge <nome_branch>
+faz o marge da branch com o main 
+
+## git clone <link,git>
+clona um repositório pra máquina - deve criar um arquivo antes pra conter esse repositório e abrir o terminal nele.
+
+## git pull
+busca do repositório do github os commits atualizados com alguma alteração feita.
