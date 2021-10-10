@@ -1,4 +1,4 @@
-# teste-git
+# tutorial-git
 Testando primeiros passos no git enquanto assisto o vídeo da rafaela ballerini e faço anotações.
 
 ### O que é GIT e GITHUB
